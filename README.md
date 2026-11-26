@@ -13,20 +13,20 @@
 </p>
 
 <p align="center">
-  <a href="https://kueno.web.id/"><img src="https://img.shields.io/badge/Portfolio-F3E6A2?style=flat-square&amp;logo=googlechrome&amp;logoColor=1F1F23" alt="Portfolio"></a>
+  <a href="https://kueno.web.id/"><img src="https://img.shields.io/badge/Portfolio-F3E6A2?style=flat-square&amp;logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0iIzFGMUYyMyI%2BPHBhdGggZD0iTTggMGE4IDggMCAxIDEgMCAxNkE4IDggMCAwIDEgOCAwWk01Ljc4IDguNzVhOS42NCA5LjY0IDAgMCAwIDEuMzYzIDQuMTc3Yy4yNTUuNDI2LjU0Mi44MzIuODU3IDEuMjE1LjI0NS0uMjk2LjU1MS0uNzA1Ljg1Ny0xLjIxNUE5LjY0IDkuNjQgMCAwIDAgMTAuMjIgOC43NVptNC40NC0xLjVhOS42NCA5LjY0IDAgMCAwLTEuMzYzLTQuMTc3Yy0uMzA3LS41MS0uNjEyLS45MTktLjg1Ny0xLjIxNWE5LjkyNyA5LjkyNyAwIDAgMC0uODU3IDEuMjE1QTkuNjQgOS42NCAwIDAgMCA1Ljc4IDcuMjVabS01Ljk0NCAxLjVIMS41NDNhNi41MDcgNi41MDcgMCAwIDAgNC42NjYgNS41Yy0uMTIzLS4xODEtLjI0LS4zNjUtLjM1Mi0uNTUyLS43MTUtMS4xOTItMS40MzctMi44NzQtMS41ODEtNC45NDhabS0yLjczMy0xLjVoMi43MzNjLjE0NC0yLjA3NC44NjYtMy43NTYgMS41OC00Ljk0OC4xMi0uMTk3LjIzNy0uMzgxLjM1My0uNTUyYTYuNTA3IDYuNTA3IDAgMCAwLTQuNjY2IDUuNVptMTAuMTgxIDEuNWMtLjE0NCAyLjA3NC0uODY2IDMuNzU2LTEuNTggNC45NDgtLjEyLjE5Ny0uMjM3LjM4MS0uMzUzLjU1MmE2LjUwNyA2LjUwNyAwIDAgMCA0LjY2Ni01LjVabTIuNzMzLTEuNWE2LjUwNyA2LjUwNyAwIDAgMC00LjY2Ni01LjVjLjEyMy4xODEuMjQuMzY1LjM1My41NTIuNzE0IDEuMTkyIDEuNDM2IDIuODc0IDEuNTggNC45NDhaIi8%2BPC9zdmc%2B" alt="Portfolio"></a>
   <a href="mailto:akbardwi373@gmail.com"><img src="https://img.shields.io/badge/Email-EED2DF?style=flat-square&amp;logo=gmail&amp;logoColor=1F1F23" alt="Email"></a>
   <a href="https://github.com/kuenobaikbanget"><img src="https://img.shields.io/badge/GitHub-CFE0F2?style=flat-square&amp;logo=github&amp;logoColor=1F1F23" alt="GitHub"></a>
 </p>
+
+> *Slow mornings and shipping things at my own pace.*
+
+## Notes
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/sticker-sheet-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/sticker-sheet-light.svg">
   <img align="right" width="31%" src="assets/sticker-sheet-light.svg" alt="Hand-drawn cat sticker collection">
 </picture>
-
-> *Slow mornings and shipping things at my own pace.*
-
-## Notes
 
 Hey, I'm Akbar, a 3rd-year CS student who likes taking things steady with a warm cup nearby, turning small ideas into calm, practical software across systems, web, and mobile.
 
