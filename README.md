@@ -23,7 +23,7 @@
 
 > *Slow mornings, warm coffee, and shipping things at my own pace.*
 
-## 📓 Notes
+## Notes
 
 Hey, I'm Akbar, a 3rd-year CS student who likes taking things steady with a warm cup nearby, turning small ideas into calm, practical software across systems, web, and mobile.
 
@@ -31,7 +31,7 @@ Hey, I'm Akbar, a 3rd-year CS student who likes taking things steady with a warm
 - **Also built:** [finnote](https://github.com/kuenobaikbanget/finnote) (*"The Quiet Pocket Ledger"*), an unhurried Android expense tracker for students, plus small IoT tinkering.
 - **Offline:** hanging out with ginger, tuxedo, and meme cats, hunting down good coffee spots, and keeping things unhurried.
 
-## ✏️ Toolbox
+## Toolbox
 
 **Systems &amp; Backend**
 
@@ -59,7 +59,7 @@ Hey, I'm Akbar, a 3rd-year CS student who likes taking things steady with a warm
 
 <br clear="right" />
 
-## 📌 Pinned Pages
+## Pinned Pages
 
 <p align="center">
   <a href="https://github.com/kuenobaikbanget/opspilot">
