@@ -18,8 +18,11 @@
   <a href="https://github.com/kuenobaikbanget"><img src="https://img.shields.io/badge/GitHub-CFE0F2?style=flat-square&amp;logo=github&amp;logoColor=1F1F23" alt="GitHub"></a>
 </p>
 
-<img align="right" width="31%" src="assets/sticker-sheet-light.svg#gh-light-mode-only" alt="Hand-drawn cat sticker collection">
-<img align="right" width="31%" src="assets/sticker-sheet-dark.svg#gh-dark-mode-only" alt="Hand-drawn cat sticker collection">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sticker-sheet-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/sticker-sheet-light.svg">
+  <img align="right" width="31%" src="assets/sticker-sheet-light.svg" alt="Hand-drawn cat sticker collection">
+</picture>
 
 > *Slow mornings and shipping things at my own pace.*
 
@@ -31,8 +34,11 @@ Hey, I'm Akbar, a 3rd-year CS student who likes taking things steady with a warm
 - **Also built:** [finnote](https://github.com/kuenobaikbanget/finnote) (*"The Quiet Pocket Ledger"*), an unhurried Android expense tracker for students, plus small IoT tinkering.
 - **Offline:** hunting down good coffee spots and keeping things unhurried.
 
-<img align="right" width="96" src="assets/sticker-footer-light.svg#gh-light-mode-only" alt="Sleepy tuxedo cat holding coffee mug sticker">
-<img align="right" width="96" src="assets/sticker-footer-dark.svg#gh-dark-mode-only" alt="Sleepy tuxedo cat holding coffee mug sticker">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sticker-footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/sticker-footer-light.svg">
+  <img align="right" width="96" src="assets/sticker-footer-light.svg" alt="Sleepy tuxedo cat holding coffee mug sticker">
+</picture>
 
 At home, I'm a home brewer and immersion brew enjoyer, mostly reaching for a Hario Switch whenever I want a slow, forgiving cup at my desk.
 
@@ -68,12 +74,18 @@ At home, I'm a home brewer and immersion brew enjoyer, mostly reaching for a Har
 
 <p align="center">
   <a href="https://github.com/kuenobaikbanget/opspilot">
-    <img width="414" src="assets/card-opspilot-light.svg#gh-light-mode-only" alt="opspilot: Self-hosted Linux monitoring and AI incident investigation">
-    <img width="414" src="assets/card-opspilot-dark.svg#gh-dark-mode-only" alt="opspilot: Self-hosted Linux monitoring and AI incident investigation">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/card-opspilot-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-opspilot-light.svg">
+      <img width="414" src="assets/card-opspilot-light.svg" alt="opspilot: Self-hosted Linux monitoring and AI incident investigation">
+    </picture>
   </a>
   <a href="https://github.com/kuenobaikbanget/finnote">
-    <img width="414" src="assets/card-finnote-light.svg#gh-light-mode-only" alt="finnote: The Quiet Pocket Ledger Android app">
-    <img width="414" src="assets/card-finnote-dark.svg#gh-dark-mode-only" alt="finnote: The Quiet Pocket Ledger Android app">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/card-finnote-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-finnote-light.svg">
+      <img width="414" src="assets/card-finnote-light.svg" alt="finnote: The Quiet Pocket Ledger Android app">
+    </picture>
   </a>
 </p>
 
