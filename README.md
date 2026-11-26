@@ -83,6 +83,6 @@ Hey, I'm Akbar, a 3rd-year CS student who likes taking things steady with a warm
 </p>
 
 <p align="left">
-  <img width="220" src="assets/sticker-footer-light.svg#gh-light-mode-only" alt="Sleepy tuxedo cat and coffee cup stickers">
-  <img width="220" src="assets/sticker-footer-dark.svg#gh-dark-mode-only" alt="Sleepy tuxedo cat and coffee cup stickers">
+  <img width="136" src="assets/sticker-footer-light.svg#gh-light-mode-only" alt="Sleepy tuxedo cat holding coffee mug sticker">
+  <img width="136" src="assets/sticker-footer-dark.svg#gh-dark-mode-only" alt="Sleepy tuxedo cat holding coffee mug sticker">
 </p>

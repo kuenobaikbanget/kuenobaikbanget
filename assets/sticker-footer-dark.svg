@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="270" height="136" viewBox="0 0 270 136" role="img" aria-labelledby="sfd_title sfd_desc">
-  <title id="sfd_title">Chill tuxedo cat holding coffee and takeaway cup stickers</title>
-  <desc id="sfd_desc">Casual pastel die-cut stickers at the bottom of the notebook.</desc>
-  <g transform="translate(16, 12) rotate(-3) scale(0.92)">
+<svg xmlns="http://www.w3.org/2000/svg" width="154" height="136" viewBox="0 0 154 136" role="img" aria-labelledby="sfd_title sfd_desc">
+  <title id="sfd_title">Chill tuxedo cat holding coffee mug sticker</title>
+  <desc id="sfd_desc">Casual pastel die-cut sticker of a sleepy tuxedo cat holding a coffee mug at the bottom of the notebook.</desc>
+  <g transform="translate(16, 12) rotate(-3) scale(0.96)">
           <g transform="translate(3,4)" fill="rgba(0,0,0,0.36)" stroke="rgba(0,0,0,0.36)" stroke-width="13" stroke-linejoin="round" stroke-linecap="round"><path d="M 24 44 L 20 14 L 42 26 C 52 23 68 23 78 26 L 100 14 L 96 44 C 106 58 103 82 93 93 L 96 113 L 24 113 L 27 93 C 17 82 14 58 24 44 Z"/><path d="M 41 72 L 83 72 L 80 116 L 44 116 Z"/><path d="M 82 81 C 95 81 95 104 81 104" fill="none"/></g>
           <g transform="translate(0,0)" fill="#D3E3D3" stroke="#D3E3D3" stroke-width="13" stroke-linejoin="round" stroke-linecap="round"><path d="M 24 44 L 20 14 L 42 26 C 52 23 68 23 78 26 L 100 14 L 96 44 C 106 58 103 82 93 93 L 96 113 L 24 113 L 27 93 C 17 82 14 58 24 44 Z"/><path d="M 41 72 L 83 72 L 80 116 L 44 116 Z"/><path d="M 82 81 C 95 81 95 104 81 104" fill="none"/></g>
           <g stroke-linecap="round" stroke-linejoin="round">
@@ -47,23 +47,4 @@
             <path d="M 80 65 Q 89 56 105 49 Q 112 43 111 33" fill="none" stroke="#F7F3EA" stroke-width="2.0"/>
           </g>
         </g>
-  <g transform="translate(160, 26) rotate(6) scale(0.94)">
-      <g transform="translate(3,4)" fill="rgba(0,0,0,0.36)" stroke="rgba(0,0,0,0.36)" stroke-width="13" stroke-linejoin="round" stroke-linecap="round"><path d="M 17 32 L 69 32 L 62 81 Q 43 86 24 81 Z"/><path d="M 12 24 L 74 24 L 71 33 L 15 33 Z"/></g>
-      <g transform="translate(0,0)" fill="#EED2DF" stroke="#EED2DF" stroke-width="13" stroke-linejoin="round" stroke-linecap="round"><path d="M 17 32 L 69 32 L 62 81 Q 43 86 24 81 Z"/><path d="M 12 24 L 74 24 L 71 33 L 15 33 Z"/></g>
-      <g stroke-linecap="round" stroke-linejoin="round">
-        <g transform="translate(1.8, 1.8)">
-          <path d="M 17 32 L 69 32 L 62 81 Q 43 86 24 81 Z" fill="#DFC5A7"/>
-          <path d="M 19 46 L 67 46 L 65 66 L 21 66 Z" fill="#D29B6E"/>
-        </g>
-        <path d="M 17 32 L 69 32 L 62 81 Q 43 86 24 81 Z" fill="none" stroke="#1F1F23" stroke-width="3.3"/>
-        <path d="M 19 46 L 67 46 L 65 66 L 21 66 Z" fill="none" stroke="#1F1F23" stroke-width="2.4"/>
-        <path d="M 12 24 L 74 24 L 71 33 L 15 33 Z" fill="#FFFFFF" stroke="#1F1F23" stroke-width="3.1"/>
-        <path d="M 22 24 L 26 15 L 60 15 L 64 24 Z" fill="#FFFFFF" stroke="#1F1F23" stroke-width="2.8"/>
-        <circle cx="37" cy="56" r="1.9" fill="#1F1F23"/>
-        <circle cx="49" cy="56" r="1.9" fill="#1F1F23"/>
-        <path d="M 40 59 Q 43 61.5 46 59" fill="none" stroke="#1F1F23" stroke-width="1.8"/>
-        <path d="M 38 10 Q 34 3 40 -2 M 49 9 Q 53 3 48 -2" fill="none" stroke="#F7F3EA" stroke-width="2"/>
-      </g>
-    </g>
-  <text x="202" y="124" text-anchor="middle" fill="#D8D2C8" opacity="0.82" font-family="'SFMono-Regular', Menlo, Consolas, monospace" font-size="10.5" font-weight="600" transform="rotate(3 202 124)">slow brew</text>
 </svg>
