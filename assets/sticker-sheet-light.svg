@@ -88,51 +88,67 @@
   <g transform="translate(126, 174) rotate(4) scale(0.9)">
       
         <g transform="translate(3,4)" fill="rgba(31,31,35,0.10)" stroke="rgba(31,31,35,0.10)" stroke-width="13" stroke-linejoin="round" stroke-linecap="round">
-          <path d="M 32 45 L 28 18 L 48 27 C 56 24 72 24 80 27 L 100 18 L 96 45 C 103 57 98 78 64 78 C 30 78 25 57 32 45 Z"/>
-          <path d="M 42 74 C 35 92 36 116 41 125 L 45 142 L 57 142 L 60 125 L 68 125 L 71 142 L 83 142 L 87 125 C 92 116 93 92 86 74 Z"/>
-          <path d="M 83 116 C 108 119 121 104 117 84 C 115 75 105 77 106 85 C 108 97 99 105 83 105 Z"/>
+          <path d="M 55 35 C 55 15 61 5 66 5 C 71 5 72 14 69 35 Z"/><path d="M 32 67 C 29 24 97 22 99 66 C 98 95 90 121 81 130 L 47 131 C 38 121 33 95 32 67 Z"/><path d="M 47 126 L 50 152 L 60 152 L 63 131 L 66 152 L 77 152 L 81 126 Z"/><path d="M 34 71 C 26 90 17 100 8 103 C 15 118 31 122 45 119 C 37 103 35 87 34 71 Z"/><path d="M 96 71 C 102 89 112 99 121 103 C 113 118 98 122 84 118 C 92 103 94 87 96 71 Z"/><path d="M 44 105 C 54 100 76 100 85 105 C 83 124 76 134 64 136 C 52 134 45 124 44 105 Z"/><path d="M 82 127 C 106 131 122 119 120 100 C 118 91 109 93 110 101 C 111 112 101 119 82 118 Z"/>
         </g>
       
         <g transform="translate(0,0)" fill="#D3E3D3" stroke="#D3E3D3" stroke-width="13" stroke-linejoin="round" stroke-linecap="round">
-          <path d="M 32 45 L 28 18 L 48 27 C 56 24 72 24 80 27 L 100 18 L 96 45 C 103 57 98 78 64 78 C 30 78 25 57 32 45 Z"/>
-          <path d="M 42 74 C 35 92 36 116 41 125 L 45 142 L 57 142 L 60 125 L 68 125 L 71 142 L 83 142 L 87 125 C 92 116 93 92 86 74 Z"/>
-          <path d="M 83 116 C 108 119 121 104 117 84 C 115 75 105 77 106 85 C 108 97 99 105 83 105 Z"/>
+          <path d="M 55 35 C 55 15 61 5 66 5 C 71 5 72 14 69 35 Z"/><path d="M 32 67 C 29 24 97 22 99 66 C 98 95 90 121 81 130 L 47 131 C 38 121 33 95 32 67 Z"/><path d="M 47 126 L 50 152 L 60 152 L 63 131 L 66 152 L 77 152 L 81 126 Z"/><path d="M 34 71 C 26 90 17 100 8 103 C 15 118 31 122 45 119 C 37 103 35 87 34 71 Z"/><path d="M 96 71 C 102 89 112 99 121 103 C 113 118 98 122 84 118 C 92 103 94 87 96 71 Z"/><path d="M 44 105 C 54 100 76 100 85 105 C 83 124 76 134 64 136 C 52 134 45 124 44 105 Z"/><path d="M 82 127 C 106 131 122 119 120 100 C 118 91 109 93 110 101 C 111 112 101 119 82 118 Z"/>
         </g>
       <g stroke-linecap="round" stroke-linejoin="round">
-        <!-- 1. Tail behind opaque body -->
-        <path d="M 83 116 C 108 119 121 104 117 84 C 115 75 105 77 106 85 C 108 97 99 105 83 105 Z" fill="#2B2A30" stroke="none"/>
-        <path d="M 106 85 C 105 77 115 75 117 84 C 118 89 116 94 113 96 C 109 94 107 90 106 85 Z" fill="#F7F3EA"/>
-        <path d="M 86 116 C 108 119 121 104 117 84 C 115 75 105 77 106 85 C 108 97 99 105 86 105" fill="none" stroke="#1F1F23" stroke-width="3.2"/>
+        <!-- Tuxedo tail behind banana costume -->
+        <path d="M 82 127 C 106 131 122 119 120 100 C 118 91 109 93 110 101 C 111 112 101 119 82 118 Z" fill="#2B2A30" stroke="none"/>
+        <path d="M 110 101 C 109 93 118 91 120 100 C 121 105 119 109 116 111 C 112 109 110 105 110 101 Z" fill="#F7F3EA"/>
+        <path d="M 86 127 C 107 131 122 119 120 100 C 118 91 109 93 110 101 C 111 112 101 119 86 118" fill="none" stroke="#1F1F23" stroke-width="3.2"/>
 
-        <!-- 2. Opaque tuxedo body + white chest bib & white sock paws -->
-        <path d="M 42 74 C 35 92 36 116 41 125 L 45 142 L 57 142 L 60 125 L 68 125 L 71 142 L 83 142 L 87 125 C 92 116 93 92 86 74 Z" fill="#2B2A30" stroke="#1F1F23" stroke-width="3.3"/>
-        <path d="M 52 77 C 50 94 53 108 64 110 C 75 108 78 94 76 77 Z" fill="#F7F3EA"/>
-        <path d="M 44 134 L 45 142 L 57 142 L 58 134 Z" fill="#F7F3EA"/>
-        <path d="M 70 134 L 71 142 L 83 142 L 84 134 Z" fill="#F7F3EA"/>
-        <path d="M 42 74 C 35 92 36 116 41 125 L 45 142 L 57 142 L 60 125 L 68 125 L 71 142 L 83 142 L 87 125 C 92 116 93 92 86 74 Z" fill="none" stroke="#1F1F23" stroke-width="3.3"/>
+        <!-- Loose riso offset color layer for banana costume -->
+        <g transform="translate(1.8, 1.8)">
+          <path d="M 55 35 C 55 15 61 5 66 5 C 71 5 72 14 69 35 Z" fill="#9D7D5C"/>
+          <path d="M 32 67 C 29 24 97 22 99 66 C 98 95 90 121 81 130 L 47 131 C 38 121 33 95 32 67 Z" fill="#F3E6A2"/>
+          <path d="M 34 71 C 26 90 17 100 8 103 C 15 118 31 122 45 119 C 37 103 35 87 34 71 Z" fill="#E8D47C"/>
+          <path d="M 96 71 C 102 89 112 99 121 103 C 113 118 98 122 84 118 C 92 103 94 87 96 71 Z" fill="#E8D47C"/>
+          <path d="M 44 105 C 54 100 76 100 85 105 C 83 124 76 134 64 136 C 52 134 45 124 44 105 Z" fill="#F3E6A2"/>
+        </g>
 
-        <!-- 3. Tuxedo head + inverted-V cream muzzle -->
-        <path d="M 32 45 L 28 18 L 48 27 C 56 24 72 24 80 27 L 100 18 L 96 45 C 103 57 98 78 64 78 C 30 78 25 57 32 45 Z" fill="#2B2A30" stroke="#1F1F23" stroke-width="3.3"/>
-        <path d="M 34 40 L 32 25 L 44 31 Z" fill="#EAC0C8"/>
-        <path d="M 94 40 L 96 25 L 84 31 Z" fill="#EAC0C8"/>
-        <path d="M 32 58 C 42 54 55 51 60 45 C 62 43 66 43 68 45 C 73 51 86 54 96 58 C 93 69 83 78 64 78 C 45 78 35 69 32 58 Z"
+        <!-- Tuxedo legs with white socks -->
+        <path d="M 47 126 L 50 152 L 60 152 L 63 131 L 66 152 L 77 152 L 81 126 Z" fill="#2B2A30" stroke="#1F1F23" stroke-width="3.3"/>
+        <path d="M 49 144 L 50 152 L 60 152 L 61 144 Z" fill="#F7F3EA"/>
+        <path d="M 66 144 L 66 152 L 77 152 L 78 144 Z" fill="#F7F3EA"/>
+        <path d="M 47 126 L 50 152 L 60 152 L 63 131 L 66 152 L 77 152 L 81 126 Z" fill="none" stroke="#1F1F23" stroke-width="3.3"/>
+
+        <!-- Tuxedo cat inside banana hood -->
+        <path d="M 41 66 L 40 48 L 54 55 C 60 53 70 53 76 55 L 90 48 L 89 66 C 92 76 89 94 82 102 L 83 128 L 46 128 L 47 102 C 39 94 37 76 41 66 Z" fill="#2B2A30" stroke="#1F1F23" stroke-width="3.2"/>
+        <path d="M 44 59 L 43 52 L 51 57 Z" fill="#EAC0C8"/>
+        <path d="M 86 59 L 87 52 L 79 57 Z" fill="#EAC0C8"/>
+        <!-- Inverted-V cream muzzle -->
+        <path d="M 40 82 C 48 79 57 77 61 72 C 63 70 66 70 68 72 C 72 77 81 79 89 82 C 87 92 78 100 64.5 100 C 51 100 42 92 40 82 Z"
               fill="#F7F3EA"/>
-        <path d="M 32 45 L 28 18 L 48 27 C 56 24 72 24 80 27 L 100 18 L 96 45 C 103 57 98 78 64 78 C 30 78 25 57 32 45 Z" fill="none" stroke="#1F1F23" stroke-width="3.3"/>
-        <path d="M 50 32 Q 64 28 78 32" fill="none" stroke="#44424C" stroke-width="2.6"/>
+        <path d="M 41 66 L 40 48 L 54 55 C 60 53 70 53 76 55 L 90 48 L 89 66 C 92 76 89 94 82 102 L 83 128 L 46 128 L 47 102 C 39 94 37 76 41 66 Z" fill="none" stroke="#1F1F23" stroke-width="3.2"/>
+        <path d="M 54 61 Q 64.5 58 75 61" fill="none" stroke="#44424C" stroke-width="2.2"/>
 
         <!-- Chill wide eyes + blush + w mouth -->
-        <circle cx="49" cy="48" r="5.5" fill="#FFFFFF" stroke="#1F1F23" stroke-width="2.2"/>
-        <circle cx="50" cy="48.5" r="2.1" fill="#1F1F23"/>
-        <circle cx="79" cy="48" r="5.5" fill="#FFFFFF" stroke="#1F1F23" stroke-width="2.2"/>
-        <circle cx="78" cy="48.5" r="2.1" fill="#1F1F23"/>
-        <ellipse cx="44" cy="60" rx="4.0" ry="2.0" fill="#E5B0C5" opacity="0.65"/>
-        <ellipse cx="84" cy="60" rx="4.0" ry="2.0" fill="#E5B0C5" opacity="0.65"/>
-        <polygon points="61,57 67,57 64,60.5" fill="#E5B0C5"/>
-        <path d="M 58 63.5 Q 61 66.5 64 62.5 Q 67 66.5 70 63.5" fill="none" stroke="#1F1F23" stroke-width="2.1"/>
+        <circle cx="53" cy="74" r="5.6" fill="#FFFFFF" stroke="#1F1F23" stroke-width="2.3"/>
+        <circle cx="54" cy="74.5" r="2.0" fill="#1F1F23"/>
+        <circle cx="76" cy="74" r="5.6" fill="#FFFFFF" stroke="#1F1F23" stroke-width="2.3"/>
+        <circle cx="75" cy="74.5" r="2.0" fill="#1F1F23"/>
+        <ellipse cx="47" cy="84" rx="3.8" ry="1.9" fill="#E5B0C5" opacity="0.65"/>
+        <ellipse cx="82" cy="84" rx="3.8" ry="1.9" fill="#E5B0C5" opacity="0.65"/>
+        <polygon points="62,81 67,81 64.5,84" fill="#E5B0C5"/>
+        <path d="M 58.5 87 Q 61.5 90 64.5 86 Q 67.5 90 70.5 87" fill="none" stroke="#1F1F23" stroke-width="2.1"/>
 
-        <!-- Tucked white mitten paws -->
-        <ellipse cx="51" cy="98" rx="6.2" ry="4.5" fill="#F7F3EA" stroke="#1F1F23" stroke-width="2.5"/>
-        <ellipse cx="77" cy="98" rx="6.2" ry="4.5" fill="#F7F3EA" stroke="#1F1F23" stroke-width="2.5"/>
+        <!-- Banana peels + outlines (opaque front peel on top of tummy!) -->
+        <path d="M 55 35 C 55 15 61 5 66 5 C 71 5 72 14 69 35 Z" fill="none" stroke="#1F1F23" stroke-width="3.3"/>
+        <path d="M 32 67 C 29 24 97 22 99 66 C 98 95 90 121 81 130 L 47 131 C 38 121 33 95 32 67 Z" fill="none" stroke="#1F1F23" stroke-width="3.5"/>
+        <path d="M 34 71 C 26 90 17 100 8 103 C 15 118 31 122 45 119 C 37 103 35 87 34 71 Z" fill="none" stroke="#1F1F23" stroke-width="3.3"/>
+        <path d="M 96 71 C 102 89 112 99 121 103 C 113 118 98 122 84 118 C 92 103 94 87 96 71 Z" fill="none" stroke="#1F1F23" stroke-width="3.3"/>
+        <path d="M 44 105 C 54 100 76 100 85 105 C 83 124 76 134 64 136 C 52 134 45 124 44 105 Z" fill="#F3E6A2" stroke="#1F1F23" stroke-width="3.3"/>
+
+        <!-- White tuxedo mitten paws resting on front peel -->
+        <ellipse cx="49" cy="105" rx="6" ry="4.4" fill="#F7F3EA" stroke="#1F1F23" stroke-width="2.5"/>
+        <ellipse cx="80" cy="105" rx="6" ry="4.4" fill="#F7F3EA" stroke="#1F1F23" stroke-width="2.5"/>
+
+        <!-- Sketchy banana ticks -->
+        <path d="M 40 41 L 43 44 M 45 39 L 47 42 M 58 116 L 60 121 M 65 117 L 65 122"
+              stroke="#1F1F23" stroke-width="1.8"/>
       </g>
     </g>
   <g transform="translate(34, 198) rotate(-3)" stroke-linecap="round" stroke-linejoin="round">

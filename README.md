@@ -72,6 +72,16 @@ Hey, I'm Akbar, a 3rd-year CS student who likes taking things steady with a warm
   </a>
 </p>
 
+## Coffee Order
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/coffee-terminal-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/coffee-terminal-light.svg">
+    <img src="assets/coffee-terminal-light.svg" alt="Hand-drawn coffee order terminal: Fore Coffee Berry Manuka Americano, less sugar, normal ice" width="840">
+  </picture>
+</p>
+
 <p align="left">
   <img width="220" src="assets/sticker-footer-light.svg#gh-light-mode-only" alt="Sleepy tuxedo cat and coffee cup stickers">
   <img width="220" src="assets/sticker-footer-dark.svg#gh-dark-mode-only" alt="Sleepy tuxedo cat and coffee cup stickers">
