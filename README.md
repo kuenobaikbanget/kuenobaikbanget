@@ -29,7 +29,12 @@ Hey, I'm Akbar, a 3rd-year CS student who likes taking things steady with a warm
 
 - **Currently working on:** [opspilot](https://github.com/kuenobaikbanget/opspilot), a self-hosted Linux monitoring and evidence-first AI incident investigation tool, alongside exploring Linux observability and AI agent workflows.
 - **Also built:** [finnote](https://github.com/kuenobaikbanget/finnote) (*"The Quiet Pocket Ledger"*), an unhurried Android expense tracker for students, plus small IoT tinkering.
-- **Offline:** hanging out with ginger, tuxedo, and meme cats, hunting down good coffee spots, and keeping things unhurried.
+- **Offline:** hunting down good coffee spots and keeping things unhurried.
+
+<p align="left">
+  <img width="112" src="assets/sticker-footer-light.svg#gh-light-mode-only" alt="Sleepy tuxedo cat holding coffee mug sticker">
+  <img width="112" src="assets/sticker-footer-dark.svg#gh-dark-mode-only" alt="Sleepy tuxedo cat holding coffee mug sticker">
+</p>
 
 ## Toolbox
 
@@ -72,17 +77,10 @@ Hey, I'm Akbar, a 3rd-year CS student who likes taking things steady with a warm
   </a>
 </p>
 
-## Coffee Order
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/coffee-terminal-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/coffee-terminal-light.svg">
     <img src="assets/coffee-terminal-light.svg" alt="Hand-drawn coffee order terminal: Fore Coffee Berry Manuka Americano, less sugar, normal ice" width="840">
   </picture>
-</p>
-
-<p align="left">
-  <img width="136" src="assets/sticker-footer-light.svg#gh-light-mode-only" alt="Sleepy tuxedo cat holding coffee mug sticker">
-  <img width="136" src="assets/sticker-footer-dark.svg#gh-dark-mode-only" alt="Sleepy tuxedo cat holding coffee mug sticker">
 </p>

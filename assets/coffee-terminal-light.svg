@@ -173,7 +173,6 @@
             <animate attributeName="opacity" values="0.65;1;0.65" dur="3.6s" repeatCount="indefinite"/>
           </path>
         </g>
-        <text x="61" y="148" text-anchor="middle" fill="#6E685E" font-family="'SFMono-Regular', Menlo, Consolas, monospace" font-size="11" font-weight="600" transform="rotate(-2 61 148)">fore · iced</text>
       </g>
 
   <!-- Fastfetch pastel color palette dots -->
