@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="440" viewBox="0 0 300 440" role="img" aria-labelledby="ssl_title ssl_desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="575" viewBox="0 0 300 575" role="img" aria-labelledby="ssl_title ssl_desc">
   <title id="ssl_title">Casual hand-drawn cat stickers</title>
-  <desc id="ssl_desc">Washed pastel die-cut stickers of a sunflower-costume cat, a goofy standing cat with iced coffee, and two reaching paws.</desc>
+  <desc id="ssl_desc">Washed pastel die-cut stickers of Cimol the sunflower cat, Cola the tuxedo cat, a goofy standing cat with iced coffee, and two reaching paws.</desc>
   
-      <path d="M 38 56 L 40 49 L 42 56 L 49 58 L 42 60 L 40 67 L 38 60 L 31 58 Z" fill="#F3E6A2" stroke="#1F1F23" stroke-width="1.4"/>
-      <text x="236" y="132" fill="#5C574F" opacity="0.7" font-family="'SFMono-Regular', Menlo, Consolas, monospace" font-size="10.5" transform="rotate(8 236 132)">zZz</text>
-      <circle cx="40" cy="342" r="3.5" fill="#D3E3D3" stroke="#1F1F23" stroke-width="1.5"/>
-      <circle cx="260" cy="394" r="3.8" fill="#F3E6A2" stroke="#1F1F23" stroke-width="1.5"/>
-  <g transform="translate(76, 18) rotate(-5) scale(0.96)">
+      <path d="M 24 62 L 26 55 L 28 62 L 35 64 L 28 66 L 26 73 L 24 66 L 17 64 Z" fill="#F3E6A2" stroke="#1F1F23" stroke-width="1.4"/>
+      <text x="242" y="138" fill="#5C574F" opacity="0.7" font-family="'SFMono-Regular', Menlo, Consolas, monospace" font-size="10.5" transform="rotate(8 242 138)">zZz</text>
+      <circle cx="38" cy="482" r="3.5" fill="#D3E3D3" stroke="#1F1F23" stroke-width="1.5"/>
+      <circle cx="262" cy="532" r="3.8" fill="#F3E6A2" stroke="#1F1F23" stroke-width="1.5"/>
+  <g transform="translate(30, 18) rotate(-4) scale(0.9)">
       
         <g transform="translate(3,4)" stroke-linejoin="round" stroke-linecap="round">
           <ellipse cx="67.5" cy="24.0" rx="12.2" ry="18.5" transform="rotate(2.5 67.5 24.0)" fill="rgba(31,31,35,0.10)" stroke="rgba(31,31,35,0.10)" stroke-width="13"/><ellipse cx="83.9" cy="28.8" rx="11.5" ry="17.2" transform="rotate(30.7 83.9 28.8)" fill="rgba(31,31,35,0.10)" stroke="rgba(31,31,35,0.10)" stroke-width="13"/><ellipse cx="98.4" cy="45.2" rx="11.5" ry="18.5" transform="rotate(68.0 98.4 45.2)" fill="rgba(31,31,35,0.10)" stroke="rgba(31,31,35,0.10)" stroke-width="13"/><ellipse cx="100.8" cy="61.7" rx="12.2" ry="17.2" transform="rotate(96.2 100.8 61.7)" fill="rgba(31,31,35,0.10)" stroke="rgba(31,31,35,0.10)" stroke-width="13"/><ellipse cx="91.4" cy="81.4" rx="11.5" ry="18.5" transform="rotate(133.4 91.4 81.4)" fill="rgba(31,31,35,0.10)" stroke="rgba(31,31,35,0.10)" stroke-width="13"/><ellipse cx="77.0" cy="90.3" rx="11.5" ry="17.2" transform="rotate(161.6 77.0 90.3)" fill="rgba(31,31,35,0.10)" stroke="rgba(31,31,35,0.10)" stroke-width="13"/><ellipse cx="54.7" cy="90.2" rx="12.2" ry="18.5" transform="rotate(198.9 54.7 90.2)" fill="rgba(31,31,35,0.10)" stroke="rgba(31,31,35,0.10)" stroke-width="13"/><ellipse cx="40.4" cy="81.1" rx="11.5" ry="17.2" transform="rotate(227.1 40.4 81.1)" fill="rgba(31,31,35,0.10)" stroke="rgba(31,31,35,0.10)" stroke-width="13"/><ellipse cx="31.2" cy="61.4" rx="11.5" ry="18.5" transform="rotate(264.3 31.2 61.4)" fill="rgba(31,31,35,0.10)" stroke="rgba(31,31,35,0.10)" stroke-width="13"/><ellipse cx="33.7" cy="45.0" rx="12.2" ry="17.2" transform="rotate(292.5 33.7 45.0)" fill="rgba(31,31,35,0.10)" stroke="rgba(31,31,35,0.10)" stroke-width="13"/><ellipse cx="48.4" cy="28.6" rx="11.5" ry="18.5" transform="rotate(329.8 48.4 28.6)" fill="rgba(31,31,35,0.10)" stroke="rgba(31,31,35,0.10)" stroke-width="13"/>
@@ -71,7 +71,85 @@
           <rect x="0" y="0" width="52" height="15" rx="2" fill="#E8DEC6" opacity="0.9" stroke="#CFC3A6" stroke-width="1.4"/>
         </g>
     </g>
-  <g transform="translate(38, 198) rotate(4) scale(1.16)">
+  <g transform="translate(176, 36) rotate(3)" stroke-linecap="round" stroke-linejoin="round">
+      <g transform="translate(2.5, 3)" fill="rgba(31,31,35,0.10)" stroke="none">
+        <rect x="0" y="0" width="76" height="30" rx="13"/>
+        <path d="M 14 29 L 4 39 L 24 29 Z"/>
+      </g>
+      <g transform="translate(1.4, 1.4)" fill="#F7F3EA" stroke="none">
+        <rect x="0" y="0" width="76" height="30" rx="13"/>
+        <path d="M 14 29 L 4 39 L 24 29 Z"/>
+      </g>
+      <rect x="0" y="0" width="76" height="30" rx="13" fill="none" stroke="#1F1F23" stroke-width="2.3"/>
+      <path d="M 14 29 L 4 39 L 24 29 Z" fill="#F7F3EA" stroke="#1F1F23" stroke-width="2.3"/>
+      <line x1="15" y1="29" x2="23" y2="29" stroke="#F7F3EA" stroke-width="3.2"/>
+      <text x="38.0" y="19.5" text-anchor="middle" fill="#1F1F23" font-family="'SFMono-Regular', Menlo, Consolas, monospace" font-size="12.5" font-weight="700">cimol</text>
+    </g>
+  <g transform="translate(126, 174) rotate(4) scale(0.9)">
+      
+        <g transform="translate(3,4)" fill="rgba(31,31,35,0.10)" stroke="rgba(31,31,35,0.10)" stroke-width="13" stroke-linejoin="round" stroke-linecap="round">
+          <path d="M 32 45 L 28 18 L 48 27 C 56 24 72 24 80 27 L 100 18 L 96 45 C 103 57 98 78 64 78 C 30 78 25 57 32 45 Z"/>
+          <path d="M 42 74 C 35 92 36 116 41 125 L 45 142 L 57 142 L 60 125 L 68 125 L 71 142 L 83 142 L 87 125 C 92 116 93 92 86 74 Z"/>
+          <path d="M 83 116 C 108 119 121 104 117 84 C 115 75 105 77 106 85 C 108 97 99 105 83 105 Z"/>
+        </g>
+      
+        <g transform="translate(0,0)" fill="#D3E3D3" stroke="#D3E3D3" stroke-width="13" stroke-linejoin="round" stroke-linecap="round">
+          <path d="M 32 45 L 28 18 L 48 27 C 56 24 72 24 80 27 L 100 18 L 96 45 C 103 57 98 78 64 78 C 30 78 25 57 32 45 Z"/>
+          <path d="M 42 74 C 35 92 36 116 41 125 L 45 142 L 57 142 L 60 125 L 68 125 L 71 142 L 83 142 L 87 125 C 92 116 93 92 86 74 Z"/>
+          <path d="M 83 116 C 108 119 121 104 117 84 C 115 75 105 77 106 85 C 108 97 99 105 83 105 Z"/>
+        </g>
+      <g stroke-linecap="round" stroke-linejoin="round">
+        <!-- 1. Tail behind opaque body -->
+        <path d="M 83 116 C 108 119 121 104 117 84 C 115 75 105 77 106 85 C 108 97 99 105 83 105 Z" fill="#2B2A30" stroke="none"/>
+        <path d="M 106 85 C 105 77 115 75 117 84 C 118 89 116 94 113 96 C 109 94 107 90 106 85 Z" fill="#F7F3EA"/>
+        <path d="M 86 116 C 108 119 121 104 117 84 C 115 75 105 77 106 85 C 108 97 99 105 86 105" fill="none" stroke="#1F1F23" stroke-width="3.2"/>
+
+        <!-- 2. Opaque tuxedo body + white chest bib & white sock paws -->
+        <path d="M 42 74 C 35 92 36 116 41 125 L 45 142 L 57 142 L 60 125 L 68 125 L 71 142 L 83 142 L 87 125 C 92 116 93 92 86 74 Z" fill="#2B2A30" stroke="#1F1F23" stroke-width="3.3"/>
+        <path d="M 52 77 C 50 94 53 108 64 110 C 75 108 78 94 76 77 Z" fill="#F7F3EA"/>
+        <path d="M 44 134 L 45 142 L 57 142 L 58 134 Z" fill="#F7F3EA"/>
+        <path d="M 70 134 L 71 142 L 83 142 L 84 134 Z" fill="#F7F3EA"/>
+        <path d="M 42 74 C 35 92 36 116 41 125 L 45 142 L 57 142 L 60 125 L 68 125 L 71 142 L 83 142 L 87 125 C 92 116 93 92 86 74 Z" fill="none" stroke="#1F1F23" stroke-width="3.3"/>
+
+        <!-- 3. Tuxedo head + inverted-V cream muzzle -->
+        <path d="M 32 45 L 28 18 L 48 27 C 56 24 72 24 80 27 L 100 18 L 96 45 C 103 57 98 78 64 78 C 30 78 25 57 32 45 Z" fill="#2B2A30" stroke="#1F1F23" stroke-width="3.3"/>
+        <path d="M 34 40 L 32 25 L 44 31 Z" fill="#EAC0C8"/>
+        <path d="M 94 40 L 96 25 L 84 31 Z" fill="#EAC0C8"/>
+        <path d="M 32 58 C 42 54 55 51 60 45 C 62 43 66 43 68 45 C 73 51 86 54 96 58 C 93 69 83 78 64 78 C 45 78 35 69 32 58 Z"
+              fill="#F7F3EA"/>
+        <path d="M 32 45 L 28 18 L 48 27 C 56 24 72 24 80 27 L 100 18 L 96 45 C 103 57 98 78 64 78 C 30 78 25 57 32 45 Z" fill="none" stroke="#1F1F23" stroke-width="3.3"/>
+        <path d="M 50 32 Q 64 28 78 32" fill="none" stroke="#44424C" stroke-width="2.6"/>
+
+        <!-- Chill wide eyes + blush + w mouth -->
+        <circle cx="49" cy="48" r="5.5" fill="#FFFFFF" stroke="#1F1F23" stroke-width="2.2"/>
+        <circle cx="50" cy="48.5" r="2.1" fill="#1F1F23"/>
+        <circle cx="79" cy="48" r="5.5" fill="#FFFFFF" stroke="#1F1F23" stroke-width="2.2"/>
+        <circle cx="78" cy="48.5" r="2.1" fill="#1F1F23"/>
+        <ellipse cx="44" cy="60" rx="4.0" ry="2.0" fill="#E5B0C5" opacity="0.65"/>
+        <ellipse cx="84" cy="60" rx="4.0" ry="2.0" fill="#E5B0C5" opacity="0.65"/>
+        <polygon points="61,57 67,57 64,60.5" fill="#E5B0C5"/>
+        <path d="M 58 63.5 Q 61 66.5 64 62.5 Q 67 66.5 70 63.5" fill="none" stroke="#1F1F23" stroke-width="2.1"/>
+
+        <!-- Tucked white mitten paws -->
+        <ellipse cx="51" cy="98" rx="6.2" ry="4.5" fill="#F7F3EA" stroke="#1F1F23" stroke-width="2.5"/>
+        <ellipse cx="77" cy="98" rx="6.2" ry="4.5" fill="#F7F3EA" stroke="#1F1F23" stroke-width="2.5"/>
+      </g>
+    </g>
+  <g transform="translate(34, 198) rotate(-3)" stroke-linecap="round" stroke-linejoin="round">
+      <g transform="translate(2.5, 3)" fill="rgba(31,31,35,0.10)" stroke="none">
+        <rect x="0" y="0" width="66" height="30" rx="13"/>
+        <path d="M 42 29 L 62 39 L 52 29 Z"/>
+      </g>
+      <g transform="translate(1.4, 1.4)" fill="#F7F3EA" stroke="none">
+        <rect x="0" y="0" width="66" height="30" rx="13"/>
+        <path d="M 42 29 L 62 39 L 52 29 Z"/>
+      </g>
+      <rect x="0" y="0" width="66" height="30" rx="13" fill="none" stroke="#1F1F23" stroke-width="2.3"/>
+      <path d="M 42 29 L 62 39 L 52 29 Z" fill="#F7F3EA" stroke="#1F1F23" stroke-width="2.3"/>
+      <line x1="43" y1="29" x2="51" y2="29" stroke="#F7F3EA" stroke-width="3.2"/>
+      <text x="33.0" y="19.5" text-anchor="middle" fill="#1F1F23" font-family="'SFMono-Regular', Menlo, Consolas, monospace" font-size="12.5" font-weight="700">cola</text>
+    </g>
+  <g transform="translate(34, 338) rotate(3) scale(1.12)">
       <g transform="translate(3,4)" fill="rgba(31,31,35,0.10)" stroke="rgba(31,31,35,0.10)" stroke-width="13" stroke-linejoin="round" stroke-linecap="round"><path d="M 28 53 C 19 47 19 25 31 23 L 33 10 L 45 18 C 51 16 59 16 65 18 L 76 10 L 78 23 C 88 27 98 22 114 26 C 126 28 131 11 129 -2 C 128 -11 140 -12 142 -2 C 144 17 139 37 129 47 L 131 82 C 131 87 120 87 118 81 L 116 58 L 108 83 C 106 88 95 88 95 81 L 97 57 C 83 59 71 59 59 57 L 61 83 C 61 88 50 88 48 82 L 45 62 L 39 83 C 37 88 26 88 26 81 Z"/><path d="M 148 54 L 171 54 L 167 86 L 151 86 Z"/><path d="M 162 54 L 168 38 L 175 37" fill="none"/></g>
       <g transform="translate(0,0)" fill="#CFE0F2" stroke="#CFE0F2" stroke-width="13" stroke-linejoin="round" stroke-linecap="round"><path d="M 28 53 C 19 47 19 25 31 23 L 33 10 L 45 18 C 51 16 59 16 65 18 L 76 10 L 78 23 C 88 27 98 22 114 26 C 126 28 131 11 129 -2 C 128 -11 140 -12 142 -2 C 144 17 139 37 129 47 L 131 82 C 131 87 120 87 118 81 L 116 58 L 108 83 C 106 88 95 88 95 81 L 97 57 C 83 59 71 59 59 57 L 61 83 C 61 88 50 88 48 82 L 45 62 L 39 83 C 37 88 26 88 26 81 Z"/><path d="M 148 54 L 171 54 L 167 86 L 151 86 Z"/><path d="M 162 54 L 168 38 L 175 37" fill="none"/></g>
       <g stroke-linecap="round" stroke-linejoin="round">
@@ -106,7 +184,7 @@
         <ellipse cx="159.5" cy="54" rx="12" ry="3.2" fill="#F7F3EA" stroke="#1F1F23" stroke-width="2.4"/>
       </g>
     </g>
-  <g transform="translate(74, 326) rotate(-4) scale(0.95)">
+  <g transform="translate(72, 462) rotate(-4) scale(0.92)">
       <g transform="translate(3,4)" fill="rgba(31,31,35,0.10)" stroke="rgba(31,31,35,0.10)" stroke-width="13" stroke-linejoin="round" stroke-linecap="round"><path d="M 19 91 L 27 44 C 23 36 25 25 35 23 C 39 14 49 14 52 22 C 59 14 69 17 69 27 C 77 29 78 40 71 47 L 64 91 Z"/><path d="M 87 91 L 95 49 C 89 42 91 31 100 30 C 104 21 114 21 117 29 C 124 21 134 24 134 33 C 141 35 141 47 135 53 L 127 91 Z"/></g>
       <g transform="translate(0,0)" fill="#EED2DF" stroke="#EED2DF" stroke-width="13" stroke-linejoin="round" stroke-linecap="round"><path d="M 19 91 L 27 44 C 23 36 25 25 35 23 C 39 14 49 14 52 22 C 59 14 69 17 69 27 C 77 29 78 40 71 47 L 64 91 Z"/><path d="M 87 91 L 95 49 C 89 42 91 31 100 30 C 104 21 114 21 117 29 C 124 21 134 24 134 33 C 141 35 141 47 135 53 L 127 91 Z"/></g>
       <g stroke-linecap="round" stroke-linejoin="round">

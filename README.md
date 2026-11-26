@@ -21,7 +21,7 @@
 <img align="right" width="31%" src="assets/sticker-sheet-light.svg#gh-light-mode-only" alt="Hand-drawn cat sticker collection">
 <img align="right" width="31%" src="assets/sticker-sheet-dark.svg#gh-dark-mode-only" alt="Hand-drawn cat sticker collection">
 
-> *Slow mornings, warm coffee, and shipping things at my own pace.*
+> *Slow mornings and shipping things at my own pace.*
 
 ## Notes
 

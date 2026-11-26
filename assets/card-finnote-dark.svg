@@ -5,6 +5,9 @@
     <pattern id="cfd_dots" width="18" height="18" patternUnits="userSpaceOnUse">
       <circle cx="3" cy="3" r="0.85" fill="#282831"/>
     </pattern>
+    <clipPath id="cfd_pill_clip">
+      <rect x="267" y="36" width="115" height="20" rx="4"/>
+    </clipPath>
   </defs>
 
   <rect x="6" y="18" width="404" height="156" rx="12" fill="#0A0B0E"/>
@@ -24,9 +27,18 @@
           </g>
   <text x="51" y="51.5" fill="#F7F3EA" font-family="'Avenir Next', 'Segoe UI', Arial, sans-serif" font-size="18.5" font-weight="700">finnote</text>
 
-  <rect x="252" y="35" width="138" height="22" rx="11" fill="#D3E3D3" stroke="#1F1F23" stroke-width="1.4"/>
-  <circle cx="264" cy="46" r="2.7" fill="#1F1F23"/>
-  <text x="273" y="49.8" fill="#1F1F23" font-family="'SFMono-Regular', Menlo, Consolas, monospace" font-size="10.8" font-weight="700">shipped · v1.0.3</text>
+  <rect x="248" y="35" width="142" height="22" rx="11" fill="#D3E3D3" stroke="#1F1F23" stroke-width="1.4"/>
+  <circle cx="260" cy="46" r="2.7" fill="#1F1F23">
+    <animate attributeName="r" values="2.2;3.2;2.2" dur="1.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <g clip-path="url(#cfd_pill_clip)">
+    <g font-family="'SFMono-Regular', Menlo, Consolas, monospace" font-size="10.8" font-weight="700" fill="#1F1F23">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-132 0" dur="6.4s" repeatCount="indefinite"/>
+      <text x="269" y="49.8">shipped · v1.0.3 · </text>
+      <text x="401" y="49.8">shipped · v1.0.3 · </text>
+    </g>
+  </g>
 
   <text x="22" y="83" fill="#C0BAB0" font-family="'Avenir Next', 'Segoe UI', Arial, sans-serif" font-size="13">"The Quiet Pocket Ledger", a calm</text>
   <text x="22" y="102" fill="#C0BAB0" font-family="'Avenir Next', 'Segoe UI', Arial, sans-serif" font-size="13">Android expense tracker for students.</text>

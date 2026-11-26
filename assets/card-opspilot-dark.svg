@@ -5,6 +5,9 @@
     <pattern id="cod_dots" width="18" height="18" patternUnits="userSpaceOnUse">
       <circle cx="3" cy="3" r="0.85" fill="#282831"/>
     </pattern>
+    <clipPath id="cod_pill_clip">
+      <rect x="317" y="36" width="65" height="20" rx="4"/>
+    </clipPath>
   </defs>
 
   <rect x="6" y="18" width="404" height="156" rx="12" fill="#0A0B0E"/>
@@ -24,9 +27,18 @@
           </g>
   <text x="51" y="51.5" fill="#F7F3EA" font-family="'Avenir Next', 'Segoe UI', Arial, sans-serif" font-size="18.5" font-weight="700">opspilot</text>
 
-  <rect x="302" y="35" width="88" height="22" rx="11" fill="#F3E6A2" stroke="#1F1F23" stroke-width="1.4"/>
-  <circle cx="314" cy="46" r="2.7" fill="#1F1F23"/>
-  <text x="323" y="49.8" fill="#1F1F23" font-family="'SFMono-Regular', Menlo, Consolas, monospace" font-size="10.8" font-weight="700">brewing</text>
+  <rect x="298" y="35" width="92" height="22" rx="11" fill="#F3E6A2" stroke="#1F1F23" stroke-width="1.4"/>
+  <circle cx="310" cy="46" r="2.7" fill="#1F1F23">
+    <animate attributeName="r" values="2.2;3.2;2.2" dur="1.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <g clip-path="url(#cod_pill_clip)">
+    <g font-family="'SFMono-Regular', Menlo, Consolas, monospace" font-size="10.8" font-weight="700" fill="#1F1F23">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-76 0" dur="4.8s" repeatCount="indefinite"/>
+      <text x="319" y="49.8">brewing · </text>
+      <text x="395" y="49.8">brewing · </text>
+    </g>
+  </g>
 
   <text x="22" y="83" fill="#C0BAB0" font-family="'Avenir Next', 'Segoe UI', Arial, sans-serif" font-size="13">Self-hosted Linux monitoring &amp;</text>
   <text x="22" y="102" fill="#C0BAB0" font-family="'Avenir Next', 'Segoe UI', Arial, sans-serif" font-size="13">evidence-first AI incident investigation.</text>
