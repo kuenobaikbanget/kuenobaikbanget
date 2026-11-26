@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://kueno.site/"><img src="https://img.shields.io/badge/Portfolio-F3E6A2?style=flat-square&amp;logo=googlechrome&amp;logoColor=1F1F23" alt="Portfolio"></a>
+  <a href="https://kueno.web.id/"><img src="https://img.shields.io/badge/Portfolio-F3E6A2?style=flat-square&amp;logo=googlechrome&amp;logoColor=1F1F23" alt="Portfolio"></a>
   <a href="mailto:akbardwi373@gmail.com"><img src="https://img.shields.io/badge/Email-EED2DF?style=flat-square&amp;logo=gmail&amp;logoColor=1F1F23" alt="Email"></a>
   <a href="https://github.com/kuenobaikbanget"><img src="https://img.shields.io/badge/GitHub-CFE0F2?style=flat-square&amp;logo=github&amp;logoColor=1F1F23" alt="GitHub"></a>
 </p>
@@ -31,10 +31,10 @@ Hey, I'm Akbar, a 3rd-year CS student who likes taking things steady with a warm
 - **Also built:** [finnote](https://github.com/kuenobaikbanget/finnote) (*"The Quiet Pocket Ledger"*), an unhurried Android expense tracker for students, plus small IoT tinkering.
 - **Offline:** hunting down good coffee spots and keeping things unhurried.
 
-<p align="left">
-  <img width="112" src="assets/sticker-footer-light.svg#gh-light-mode-only" alt="Sleepy tuxedo cat holding coffee mug sticker">
-  <img width="112" src="assets/sticker-footer-dark.svg#gh-dark-mode-only" alt="Sleepy tuxedo cat holding coffee mug sticker">
-</p>
+<img align="right" width="96" src="assets/sticker-footer-light.svg#gh-light-mode-only" alt="Sleepy tuxedo cat holding coffee mug sticker">
+<img align="right" width="96" src="assets/sticker-footer-dark.svg#gh-dark-mode-only" alt="Sleepy tuxedo cat holding coffee mug sticker">
+
+At home, I'm a home brewer and immersion brew enjoyer, mostly reaching for a Hario Switch whenever I want a slow, forgiving cup at my desk.
 
 ## Toolbox
 
